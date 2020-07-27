@@ -47,14 +47,17 @@ h1 {
 
 #section_title1  {
   background-color: #A52A2A;
+  color:#DEB887;
 }
 
 #section_title2  {
   background-color: #DEB887;
+  color:#5F9EA0;
 }
 
 #section_title3  {
   background-color: #5F9EA0;
+  color:#A52A2A;
 }
 
 .section {
